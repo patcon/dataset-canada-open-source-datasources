@@ -1,8 +1,7 @@
 {
   "resources": [
     {
-      "name": "organizations",
-      "path": "data/organizations.csv",
+      "path": "data/datasources.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 1753,
@@ -14,7 +13,7 @@
             "description": "URL"
           },
           {
-            "name": "name_en",
+            "name": "name",
             "type": "string",
             "description": "Name of organization"
           },
@@ -28,7 +27,7 @@
     }
   ],
   "name": "dataset-canada-opensource-code-orgs",
-  "title": "",
+  "title": "Canadian federal datasources for open-source software.",
   "description": "",
   "homepage": "",
   "version": "0.1.0",
