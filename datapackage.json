@@ -1,10 +1,10 @@
 {
   "resources": [
     {
+      "name": "Datasources",
       "path": "data/datasources.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 1753,
       "schema": {
         "fields": [
           {
@@ -26,10 +26,10 @@
       }
     }
   ],
-  "name": "dataset-canada-opensource-code-orgs",
-  "title": "Canadian federal datasources for open-source software.",
-  "description": "",
-  "homepage": "",
+  "name": "canada-open-source-datasources",
+  "title": "Canadian federal datasources for open-source software",
+  "description": "This is a description, shared between README and `datapackage.json` file.",
+  "homepage": "https://github.com/patcon/dataset-canada-opensource-code-orgs",
   "version": "0.1.0",
-  "license": "ODC-PDDL-1.0"
+  "license": "OGL-Canada-2.0",
 }
