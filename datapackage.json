@@ -1,0 +1,36 @@
+{
+  "resources": [
+    {
+      "name": "organizations",
+      "path": "data/organizations.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1753,
+      "schema": {
+        "fields": [
+          {
+            "name": "url",
+            "type": "string",
+            "description": "URL"
+          },
+          {
+            "name": "name_en",
+            "type": "string",
+            "description": "Name of organization"
+          },
+          {
+            "name": "name_fr",
+            "type": "string",
+            "description": "Nom de l'organisation"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "dataset-canada-opensource-code-orgs",
+  "title": "",
+  "description": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
