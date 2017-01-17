@@ -7,6 +7,10 @@ file.
 
 Some short description of the data.
 
+## Scripts
+
+Run `make` in project root to see available scripts to run.
+
 ## License
 
 See [LICENSE.md](LICENSE.md).
