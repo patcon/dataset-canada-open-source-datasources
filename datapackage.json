@@ -1,7 +1,7 @@
 {
   "resources": [
     {
-      "name": "Datasources",
+      "name": "datasources",
       "path": "data/datasources.csv",
       "format": "csv",
       "mediatype": "text/csv",
