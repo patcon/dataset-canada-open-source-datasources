@@ -26,7 +26,7 @@ licence][license] with only a few conditions.
     providers and multiple attributions are not practical for your product
     or application, you must use the following attribution statement:
 
-      Contains information licensed under the Open Government Licence – Canada.
+        Contains information licensed under the Open Government Licence – Canada.
 
 The terms of this licence are important, and if you fail to comply with
 any of them, the rights granted to you under this licence, or any
