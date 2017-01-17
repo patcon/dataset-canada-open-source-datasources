@@ -31,5 +31,5 @@
   "description": "This is a description, shared between README and `datapackage.json` file.",
   "homepage": "https://github.com/patcon/dataset-canada-opensource-code-orgs",
   "version": "0.1.0",
-  "license": "OGL-Canada-2.0",
+  "license": "OGL-Canada-2.0"
 }
