@@ -7,7 +7,7 @@ json: ## Generate JSON file from CSV
 .PHONY: help
 
 help:
-	@echo 'Usage: dpm <command>'
+	@echo 'Usage: make <command>'
 	@echo
 	@echo 'where <command> is one of the following:'
 	@echo
